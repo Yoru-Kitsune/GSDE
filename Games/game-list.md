@@ -1,7 +1,7 @@
 # GS DE Games List
 
 ## 6
-> 60-seconds
+> 60 Seconds!
 
 ## A
 > Agar.io
@@ -16,7 +16,7 @@
 > 
 > Animal Crossing
 > 
-> ANNO
+> Anno
 > 
 > Apex Legends
 > 
