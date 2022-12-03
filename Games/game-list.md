@@ -1,17 +1,36 @@
-60-seconds - new
-agar-io
-age-of-empires - new
-alchemia-story - new
-among-us
-angry-birds - new
-animal-crossing - new
-anno - new
-apex - new
-archero
-ark
-arknights
-asphalt - new
-assassins-creed - new
+# GS DE Games List
+
+## 6
+> 60-seconds
+
+## A
+> Agar.io
+>
+> Age of Empires
+> 
+> Alchemia Story
+> 
+> Among Us
+> 
+> Angry Birds
+> 
+> Animal Crossing
+> 
+> ANNO
+> 
+> Apex Legends
+> 
+> Archero
+> 
+> Ark: Survival Evolved
+> 
+> Arknights
+> 
+> Asphalt
+> 
+> Assassin's Creed
+
+## B
 ballrun-2048
 basketballarena
 battlefield - new
