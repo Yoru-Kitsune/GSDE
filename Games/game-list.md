@@ -1,4 +1,4 @@
-# GS DE Games List
+# GS DE Games List (In Arbeit)
 
 ## 6
 > 60 Seconds!
