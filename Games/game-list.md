@@ -222,3 +222,34 @@ world-of-warships
 wreckfest - new
 yoshis-wool-world - new
 zen-match
+
+## M
+> Minecraft
+> 
+> Minecraft: Dungeons
+> 
+> Minecraft: Earth
+>
+> Minecraft: Education Edition
+> 
+> Minecraft: Java Edition
+> 
+> Minecraft: Legends
+> 
+> Minecraft: New Nintendo 3DS Edition
+> 
+> Minecraft: Playstation 3 Edition
+> 
+> Minecraft: Playstation 4 Edition
+> 
+> Minecraft: Playstation Vita Edition
+> 
+> Minecraft: Pocket Edition
+>
+> Minecraft: Story Mode
+> 
+> Minecraft: Wii U Edition
+>
+> Minecraft: Xbox 360 Edition
+> 
+> Minecraft: Xbox One Edition
