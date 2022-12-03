@@ -117,7 +117,6 @@ mega-tower
 metroid - new
 microstoft-flight-simulator - new
 mindustry - new
-minecraft
 miner-gun-builder
 mini-golf-3d
 money-clicker
