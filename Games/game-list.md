@@ -223,32 +223,32 @@ yoshis-wool-world - new
 zen-match
 
 ## M
-> Minecraft
+> Minecraft   (MCBE)
 > 
-> Minecraft: Dungeons
+> Minecraft: Dungeons   (MCD)
 > 
-> Minecraft: Earth
+> Minecraft: Earth   (MCE)
 >
-> Minecraft: Education Edition
+> Minecraft: Education Edition   (MCEE)
 > 
-> Minecraft: Java Edition
+> Minecraft: Java Edition   (MCJE)
 > 
-> Minecraft: Legends
+> Minecraft: Legends   (MCL)
 > 
-> Minecraft: New Nintendo 3DS Edition
+> Minecraft: New Nintendo 3DS Edition   (MCNN3DSE)
 > 
-> Minecraft: Playstation 3 Edition
+> Minecraft: Playstation 3 Edition   (MCPS3E)
 > 
-> Minecraft: Playstation 4 Edition
+> Minecraft: Playstation 4 Edition   (MCPS4E)
 > 
-> Minecraft: Playstation Vita Edition
+> Minecraft: Playstation Vita Edition   (MCPSVE)
 > 
-> Minecraft: Pocket Edition
+> Minecraft: Pocket Edition   (MCPE)
 >
-> Minecraft: Story Mode
+> Minecraft: Story Mode   (MCSM)
 > 
-> Minecraft: Wii U Edition
+> Minecraft: Wii U Edition   (MCWUE)
 >
-> Minecraft: Xbox 360 Edition
+> Minecraft: Xbox 360 Edition   (MCX360E)
 > 
-> Minecraft: Xbox One Edition
+> Minecraft: Xbox One Edition   (MCX1E)
