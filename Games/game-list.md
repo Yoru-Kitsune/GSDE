@@ -1,5 +1,5 @@
 [HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM]:<> (
-Boy... Ya tryna steal the code?
+Boy... you are trying to steal the code, aren't you.
 ⠀⢀⣠⣾⠷⠊⠉⠉⠉⠉⠉⠙⠗⠉⠉⠉⠓⠻⠿⢿⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⣴⡿⠊⠀⣤⣒⣒⣒⣶⠒⡦⠀⠀⢠⣶⣒⣒⣲⣦⠀⠉⠓⢦⠀⠀⠀⠀⠀⠀⠀
 ⠟⠀⠀⠀⠉⠉⠉⣉⣉⣩⡥⠤⠤⠤⢤⠬⠥⠬⠥⠤⠤⠤⣴⣇⠀⠀⠀⠀⠀⠀
