@@ -1,10 +1,10 @@
+[c]:(Why are you in the Code?)
 # GS DE Games List (In Arbeit)
 
 ## 6
 > 60 Seconds!
 
 ## A
-[m]:(Seggs)
 > Agar.io
 >
 > Age of Empires
