@@ -4,7 +4,7 @@
 > 60 Seconds!
 
 ## A
-[comment]: (Seggs)
+[comment](Seggs)
 > Agar.io
 >
 > Age of Empires
