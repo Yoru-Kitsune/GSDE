@@ -17,7 +17,7 @@ Ya wanna steal the code?
 ⠀⠀⠀⠀⠀⢠⠇⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⣟⠀⢸
 )
 
-# GS DE Games List (In Arbei)
+# GS DE Games List (In Arbeit)
 
 ## 6
 > 60 Seconds!
