@@ -30,7 +30,38 @@
 > 
 > Assassin's Creed
 
-## B
+## M
+> Minecraft   {MCBE}
+> 
+> Minecraft: Dungeons   {MCD}
+> 
+> Minecraft: Earth   {MCE}
+>
+> Minecraft: Education Edition   {MCEE}
+> 
+> Minecraft: Java Edition   {MCJE}
+> 
+> Minecraft: Legends   {MCL}
+> 
+> Minecraft: New Nintendo 3DS Edition   {MCNN3DSE}
+> 
+> Minecraft: Playstation 3 Edition   {MCPS3E}
+> 
+> Minecraft: Playstation 4 Edition   {MCPS4E}
+> 
+> Minecraft: Playstation Vita Edition   {MCPSVE}
+> 
+> Minecraft: Pocket Edition   {MCPE}
+> 
+> Minecraft: Story Mode   {MCSM}
+> 
+> Minecraft: Wii U Edition   {MCWUE}
+>
+> Minecraft: Xbox 360 Edition   {MCX360E}
+> 
+> Minecraft: Xbox One Edition   {MCX1E}
+
+## Unsorted
 ballrun-2048
 basketballarena
 battlefield - new
@@ -221,34 +252,3 @@ world-of-warships
 wreckfest - new
 yoshis-wool-world - new
 zen-match
-
-## M
-> Minecraft   {MCBE}
-> 
-> Minecraft: Dungeons   {MCD}
-> 
-> Minecraft: Earth   {MCE}
->
-> Minecraft: Education Edition   {MCEE}
-> 
-> Minecraft: Java Edition   {MCJE}
-> 
-> Minecraft: Legends   {MCL}
-> 
-> Minecraft: New Nintendo 3DS Edition   {MCNN3DSE}
-> 
-> Minecraft: Playstation 3 Edition   {MCPS3E}
-> 
-> Minecraft: Playstation 4 Edition   {MCPS4E}
-> 
-> Minecraft: Playstation Vita Edition   {MCPSVE}
-> 
-> Minecraft: Pocket Edition   {MCPE}
->
-> Minecraft: Story Mode   {MCSM}
-> 
-> Minecraft: Wii U Edition   {MCWUE}
->
-> Minecraft: Xbox 360 Edition   {MCX360E}
-> 
-> Minecraft: Xbox One Edition   {MCX1E}
