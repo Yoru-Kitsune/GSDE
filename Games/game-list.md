@@ -31,38 +31,54 @@
 > Assassin's Creed
 
 ## M
-> Minecraft   {MCBE}
+> Minecraft
+> {MCBE}
 > 
-> Minecraft: Dungeons   {MCD}
+> Minecraft: Dungeons
+> {MCD}
 > 
-> Minecraft: Earth   {MCE}
+> Minecraft: Earth
+> {MCE}
 >
-> Minecraft: Education Edition   {MCEE}
+> Minecraft: Education Edition
+> {MCEE}
 > 
-> Minecraft: Java Edition   {MCJE}
+> Minecraft: Java Edition
+> {MCJE}
 > 
-> Minecraft: Legends   {MCL}
+> Minecraft: Legends
+> {MCL}
 > 
-> Minecraft: New Nintendo 3DS Edition   {MCNN3DSE}
+> Minecraft: New Nintendo 3DS Edition
+> {MCNN3DSE}
 > 
-> Minecraft: Playstation 3 Edition   {MCPS3E}
+> Minecraft: Playstation 3 Edition
+> {MCPS3E}
 > 
-> Minecraft: Playstation 4 Edition   {MCPS4E}
+> Minecraft: Playstation 4 Edition
+> {MCPS4E}
 > 
-> Minecraft: Playstation Vita Edition   {MCPSVE}
+> Minecraft: Playstation Vita Edition
+> {MCPSVE}
 > 
-> Minecraft: Pocket Edition   {MCPE}
+> Minecraft: Pocket Edition
+> {MCPE}
 > 
-> Minecraft: Story Mode   {MCSM}
+> Minecraft: Story Mode
+> {MCSM}
 > 
-> Minecraft: Wii U Edition   {MCWUE}
+> Minecraft: Wii U Edition
+> {MCWUE}
 >
-> Minecraft: Xbox 360 Edition   {MCX360E}
+> Minecraft: Xbox 360 Edition
+> {MCX360E}
 > 
-> Minecraft: Xbox One Edition   {MCX1E}
+> Minecraft: Xbox One Edition
+> {MCX1E}
 
 ## T
-> Terraria   {TERRA}
+> Terraria
+> {TERRA}
 
 ## Unfertig
 ballrun-2048
