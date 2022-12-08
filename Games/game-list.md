@@ -1,4 +1,4 @@
-[c]:(Why are you in the Code?)
+[comment]: (Why are you in the Code?)
 # GS DE Games List (In Arbeit)
 
 ## 6
