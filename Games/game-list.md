@@ -16,22 +16,18 @@ Hey you over there... you're going to steal the code, aren't you...
 ⠀⠀⠀⠀⠀⠀⡼⠀⠀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⣧⠀⢸
 ⠀⠀⠀⠀⠀⢠⠇⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⣟⠀⢸
 )
-
 # Game Liste (In Arbeit)
 
-## A
 > ARK: Survival Evolved
 >
 > ARK II
 > 
 > ARK Park 
 
-## C
 > Clash of Clans
 >
 > Clash Royale
 
-## M
 > Minecraft
 > 
 > Minecraft: Dungeons
@@ -62,18 +58,14 @@ Hey you over there... you're going to steal the code, aren't you...
 > 
 > Minecraft: Xbox One Edition
 
-## P
 > PixARK
 
-## R
 > Rocket League
 >
 > Rocket League Sideswipe
 
-## T
 > Terraria
 
-## Unfertig
 60-seconds - new
 agar-io
 age-of-empires - new
