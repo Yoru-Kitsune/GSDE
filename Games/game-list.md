@@ -201,6 +201,34 @@ Hey you over there... you're going to steal the code, aren't you...
 > Landwirtschafts Simulator Nintendo Switch Edition
 
 ## M
+> Mario Kart 7
+> 
+> Mario Kart 8
+> 
+> Mario Kart 8 Deluxe
+> 
+> Mario Kart 64
+> 
+> Mario Kart: Double Dash!!
+> 
+> Mario Kart: Super Circuit
+> 
+> Mario Kart Arcade GP
+> 
+> Mario Kart Arcade GP 2
+> 
+> Mario Kart Arcade GP DX
+> 
+> Mario Kart Arcade GP VR
+> 
+> Mario Kart DS
+> 
+> Mario Kart Live: Home Circuit
+> 
+> Mario Kart Tour
+> 
+> Mario Kart Wii
+> 
 > Minecraft
 > 
 > Minecraft: Dungeons
@@ -245,6 +273,7 @@ Hey you over there... you're going to steal the code, aren't you...
 > Rocket League Sideswipe
 
 ## S
+> Super Mario Kart
 
 ## T
 > Terraria
