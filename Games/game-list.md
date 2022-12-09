@@ -115,7 +115,7 @@ Hey you over there... you're going to steal the code, aren't you...
 > 
 > Forza Horizon 2
 > 
-> Forza Horizon 2 Presents Fast & Furious
+> Forza Horizon 2: Fast & Furious
 > 
 > Forza Horizon 3
 > 
