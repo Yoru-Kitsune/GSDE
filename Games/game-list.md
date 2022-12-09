@@ -26,6 +26,76 @@ Hey you over there... you're going to steal the code, aren't you...
 > ARK Park
 
 ## C
+> Call of Duty
+> 
+> Call of Duty 2
+> 
+> Call of Duty 3
+> 
+> Call of Duty 4: Modern Warfare
+> 
+> Call of Duty: Advanced Warfare
+> 
+> Call of Duty: Big Red One
+> 
+> Call of Duty: Black Ops
+> 
+> Call of Duty: Black Ops 4
+> 
+> Call of Duty: Black Ops Cold War
+> 
+> Call of Duty: Black Ops Declassified
+> 
+> Call of Duty: Black Ops DS
+> 
+> Call of Duty: Black Ops II
+> 
+> Call of Duty: Black Ops III
+> 
+> Call of Duty: Finest Hour
+> 
+> Call of Duty: Ghosts
+> 
+> Call of Duty: Heros
+> 
+> Call of Duty: Infinite War
+> 
+> Call of Duty: Mobile
+> 
+> Call of Duty: Modern Warfare
+> 
+> Call of Duty: Modern Warfare 2
+> 
+> Call of Duty: Modern Warfare 2: Final Force Recon
+> 
+> Call of Duty: Modern Warfare 3
+> 
+> Call of Duty: Modern Warfare II
+> 
+> Call of Duty: Modern Warfare Mobilized
+> 
+> Call of Duty: Roads to Victory
+> 
+> Call of Duty: Strike Team
+> 
+> Call of Duty: The War Collection
+> 
+> Call of Duty: Vanguard
+> 
+> Call of Duty: Warzone
+> 
+> Call of Duty: World at War
+> 
+> Call of Duty: World at War- Final Fronts
+> 
+> Call of Duty: WWII
+> 
+> Call of Duty: Zombies
+> 
+> Call of Duty: Zombies 2
+> 
+> Call of Duty Online
+> 
 > Clash of Clans
 >
 > Clash Royale
