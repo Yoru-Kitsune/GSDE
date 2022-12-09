@@ -17,7 +17,7 @@ Hey you over there... you're going to steal the code, aren't you...
 ⠀⠀⠀⠀⠀⢠⠇⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⣟⠀⢸
 )
 
-# Game Liste   (In Arbeit)
+# Game Liste (In Arbeit)
 
 ## 6
 > 60 Seconds!
