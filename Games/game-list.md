@@ -49,6 +49,11 @@ Hey you over there... you're going to steal the code, aren't you...
 > 
 > Assassin's Creed
 
+## C
+> Clash of Clans
+>
+> Clash Royale
+
 ## M
 > Minecraft
 > 
