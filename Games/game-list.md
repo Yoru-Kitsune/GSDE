@@ -80,6 +80,9 @@ Hey you over there... you're going to steal the code, aren't you...
 > 
 > Minecraft: Xbox One Edition
 
+## R
+> Rocket League
+
 ## T
 > Terraria
 
@@ -207,7 +210,6 @@ reventure
 rider
 rise-of-kingdoms - new
 roblox - new
-rocket-league
 rush-royale
 sailor-cats
 sand-balls
@@ -242,7 +244,6 @@ tangle-master-3d
 tank-stars
 tap-craft
 temple-run - new
-terraria
 territorial-io
 tetris
 text-or-die
