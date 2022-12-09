@@ -41,9 +41,13 @@ Hey you over there... you're going to steal the code, aren't you...
 > 
 > Archero
 > 
-> Ark: Survival Evolved
+> ARK: Survival Evolved
+>
+> ARK II
 > 
 > Arknights
+>
+> ARK Park 
 > 
 > Asphalt
 > 
@@ -84,6 +88,9 @@ Hey you over there... you're going to steal the code, aren't you...
 > Minecraft: Xbox 360 Edition
 > 
 > Minecraft: Xbox One Edition
+
+## P
+> PixARK
 
 ## R
 > Rocket League
