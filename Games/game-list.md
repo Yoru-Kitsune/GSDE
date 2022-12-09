@@ -23,11 +23,9 @@ Hey you over there... you're going to steal the code, aren't you...
 > ARK II
 > 
 > ARK Park 
-
 > Clash of Clans
 >
 > Clash Royale
-
 > Minecraft
 > 
 > Minecraft: Dungeons
@@ -57,15 +55,11 @@ Hey you over there... you're going to steal the code, aren't you...
 > Minecraft: Xbox 360 Edition
 > 
 > Minecraft: Xbox One Edition
-
 > PixARK
-
 > Rocket League
 >
 > Rocket League Sideswipe
-
 > Terraria
-
 60-seconds - new
 agar-io
 age-of-empires - new
