@@ -19,39 +19,12 @@ Hey you over there... you're going to steal the code, aren't you...
 
 # Game Liste (In Arbeit)
 
-## 6
-
-
 ## A
-> Agar.io
->
-> Age of Empires
-> 
-> Alchemia Story
-> 
-> Among Us
-> 
-> Angry Birds
-> 
-> Animal Crossing
-> 
-> Anno
-> 
-> Apex Legends
-> 
-> Archero
-> 
 > ARK: Survival Evolved
 >
 > ARK II
 > 
-> Arknights
->
 > ARK Park 
-> 
-> Asphalt
-> 
-> Assassin's Creed
 
 ## C
 > Clash of Clans
@@ -101,6 +74,19 @@ Hey you over there... you're going to steal the code, aren't you...
 > Terraria
 
 ## Unfertig
+60-seconds - new
+agar-io
+age-of-empires - new
+alchemia-story - new
+among-us
+angry-birds - new
+animal-crossing - new
+anno - new
+apex - new
+archero
+arknights
+asphalt - new
+assassins-creed - new
 ballrun-2048
 basketballarena
 battlefield - new
