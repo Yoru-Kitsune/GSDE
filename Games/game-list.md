@@ -110,6 +110,40 @@ Hey you over there... you're going to steal the code, aren't you...
 
 ## F
 > Fortnite
+> 
+> Forza Horizon
+> 
+> Forza Horizon 2
+> 
+> Forza Horizon 2 Presents Fast & Furious
+> 
+> Forza Horizon 3
+> 
+> Forza Horizon 4
+> 
+> Forza Horizon 4: Lego Speed Champions
+> 
+> Forza Horizon 5
+> 
+> Forza Motorsport
+> 
+> Forza Motorsport 2
+> 
+> Forza Motorsport 3
+> 
+> Forza Motorsport 4
+> 
+> Forza Motorsport 5
+> 
+> Forza Motorsport 6
+> 
+> Forza Motorsport 6: Apex
+> 
+> Forza Motorsport 7
+> 
+> Forza Motorsport 8
+> 
+> Forza Street
 
 ## M
 > Minecraft
