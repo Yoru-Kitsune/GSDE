@@ -146,6 +146,35 @@ Hey you over there... you're going to steal the code, aren't you...
 > Forza Street
 
 ## L
+> Landwirtschafts Simulator 14
+> 
+> Landwirtschafts Simulator 15
+> 
+> Landwirtschafts Simulator 16
+> 
+> Landwirtschafts Simulator 17
+> 
+> Landwirtschafts Simulator 18
+> 
+> Landwirtschafts Simulator 19
+> 
+> Landwirtschafts Simulator 20
+> 
+> Landwirtschafts Simulator 22
+> 
+> Landwirtschafts Simulator 2008
+> 
+> Landwirtschafts Simulator 2009
+> 
+> Landwirtschafts Simulator 2011
+> 
+> Landwirtschafts Simulator 2012
+> 
+> Landwirtschafts Simulator 2013
+> 
+> Landwirtschafts Simulator C64 Edition
+> 
+> Landwirtschafts Simulator Nintendo Switch Edition
 
 ## M
 > Minecraft
