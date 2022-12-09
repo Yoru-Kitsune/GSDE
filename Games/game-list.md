@@ -109,6 +109,25 @@ Hey you over there... you're going to steal the code, aren't you...
 > Clash Royale
 
 ## D
+> Diablo
+> 
+> Diablo: Hellfire
+> 
+> Diablo II
+> 
+> Diablo II: Lord of Destruction
+> 
+> Diablo II: Resurrected
+> 
+> Diablo III
+> 
+> Diablo III: Reaper of Souls
+> 
+> Diablo III: Rise of the Necromancer
+> 
+> Diablo Immortal
+> 
+> Diablo IV
 
 ## F
 > Fortnite
