@@ -65,6 +65,9 @@ Hey you over there... you're going to steal the code, aren't you...
 > Minecraft: Xbox One Edition
 
 ## O
+> osu!
+>
+> osu!lazer
 
 ## P
 > PixARK
