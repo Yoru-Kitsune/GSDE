@@ -1,5 +1,4 @@
-[HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM]:<> (
-Hey you over there... you're going to steal the code, aren't you...
+<!-- Hey you over there... you're going to steal the code, aren't you...
 ⠀⢀⣠⣾⠷⠊⠉⠉⠉⠉⠉⠙⠗⠉⠉⠉⠓⠻⠿⢿⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⣴⡿⠊⠀⣤⣒⣒⣒⣶⠒⡦⠀⠀⢠⣶⣒⣒⣲⣦⠀⠉⠓⢦⠀⠀⠀⠀⠀⠀⠀
 ⠟⠀⠀⠀⠉⠉⠉⣉⣉⣩⡥⠤⠤⠤⢤⠬⠥⠬⠥⠤⠤⠤⣴⣇⠀⠀⠀⠀⠀⠀
@@ -14,8 +13,7 @@ Hey you over there... you're going to steal the code, aren't you...
 ⠀⠀⠀⠀⠀⠀⠀⡾⠀⠀⢀⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⠈⣧⠀⠀⢳
 ⠀⠀⠀⠀⠀⠀⢸⠇⠀⢀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡀⠘⡇⠀⢸
 ⠀⠀⠀⠀⠀⠀⡼⠀⠀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⣧⠀⢸
-⠀⠀⠀⠀⠀⢠⠇⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⣟⠀⢸
-)
+⠀⠀⠀⠀⠀⢠⠇⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⣟⠀⢸ -->
 # Game Liste (In Arbeit)
 
 ## A
