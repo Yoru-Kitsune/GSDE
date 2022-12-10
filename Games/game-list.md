@@ -298,6 +298,9 @@
 > [Terraria](https://www.guilded.gg/GS-DE/groups/3NYo8ALz/channels/6b1d16e0-900b-447d-9d43-e57b14e84117/chat)
 
 ## W
+> [World of Tanks](https://www.guilded.gg/GS-DE/groups/dxXWxBed/channels/6079eb02-7182-4fa9-b0cd-b01c9e6d98dd/chat)
+> 
+> [World of Tanks Blitz](https://www.guilded.gg/GS-DE/groups/dxXWxBed/channels/7eacae98-9425-4bee-8796-f1b7ee073036/chat)
 
 # Unfertig
 60-seconds - new
