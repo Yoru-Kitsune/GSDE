@@ -307,6 +307,8 @@
 > [World of Warships](https://www.guilded.gg/GS-DE/groups/dKyKq7O3/channels/173ec298-4bf2-4b3f-9d41-a5821ed7de46/chat)
 > 
 > [World of Warships Blitz: MMO](https://www.guilded.gg/GS-DE/groups/dKyKq7O3/channels/a54e464d-622b-4776-9151-f4c51e806de1/chat)
+> 
+> [World of Warships: Legends](https://www.guilded.gg/GS-DE/groups/dKyKq7O3/channels/f2c6d486-d448-4338-b762-bb18f73d63e8/chat)
 
 # Unfertig
 60-seconds - new
