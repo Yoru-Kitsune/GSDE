@@ -201,82 +201,82 @@ Hey you over there... you're going to steal the code, aren't you...
 > [Landwirtschafts Simulator Nintendo Switch Edition](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/d519a09b-4fd1-4663-abf1-a85f7e86830e/chat)
 
 ## M
-> Mario Kart 7
+> [Mario Kart 7](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/dbbaba78-563c-46b7-9d39-33779fbc2449/chat)
 > 
-> Mario Kart 8
+> [Mario Kart 8](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/3546b05f-e6ce-4e94-a394-604e2fcddf9c/chat)
 > 
-> Mario Kart 8 Deluxe
+> [Mario Kart 8 Deluxe](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/ebcd86c0-5e1e-46a4-b9a4-60ebc8276561/chat)
 > 
-> Mario Kart 64
+> [Mario Kart 64](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/1ec900f6-c6be-48e6-849a-aa2d15802100/chat)
 > 
-> Mario Kart: Double Dash!!
+> [Mario Kart: Double Dash!!](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/c24b3d65-5053-4db8-8a2b-b62531c42b85/chat)
 > 
-> Mario Kart: Super Circuit
+> [Mario Kart: Super Circuit](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/3d85a325-5ab5-4335-bb7a-890e5e7e91d4/chat)
 > 
-> Mario Kart Arcade GP
+> [Mario Kart Arcade GP](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/1e88d892-6202-43fd-8157-064cadd80506/chat)
 > 
-> Mario Kart Arcade GP 2
+> [Mario Kart Arcade GP 2](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/6c0855f0-7d1d-4105-b3fd-d5f65964c4d1/chat)
 > 
-> Mario Kart Arcade GP DX
+> [Mario Kart Arcade GP DX](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/2366a231-1e85-47e1-9bce-53d6f3cf35a9/chat)
 > 
-> Mario Kart Arcade GP VR
+> [Mario Kart Arcade GP VR](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/2c4b874a-3530-4563-947a-8f29f2a4acc9/chat)
 > 
-> Mario Kart DS
+> [Mario Kart DS](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/98e4ef79-606a-4d2d-8da4-2c6a54fd27d5/chat)
 > 
-> Mario Kart Live: Home Circuit
+> [Mario Kart Live: Home Circuit](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/bc47bb9d-9f7b-46e4-812d-31ff6b55dca8/chat)
 > 
-> Mario Kart Tour
+> [Mario Kart Tour](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/260ffa18-6cdf-4608-890a-f99ec2e9e5d9/chat)
 > 
-> Mario Kart Wii
+> [Mario Kart Wii](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/66647640-1edd-44c3-8859-d4c43e03facf/chat)
 > 
-> Minecraft
+> [Minecraft](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/58b5130b-8415-4afb-a658-0586cf3d7b6b/chat)
 > 
-> Minecraft: Dungeons
+> [Minecraft: Dungeons](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/f2135e3b-84f6-4f31-91d3-5b5eb09ce99b/chat)
 > 
-> Minecraft: Earth
+> [Minecraft: Earth](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/9d8a55de-764d-4cef-ad78-5c0c935750f0/chat)
 >
-> Minecraft: Education Edition
+> [Minecraft: Education Edition](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/25f9c8a9-51c9-4f8f-99ae-af06ead548ed/chat)
 > 
-> Minecraft: Java Edition
+> [Minecraft: Java Edition](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/21797c33-70df-4201-b447-f20927b007e3/chat)
 > 
-> Minecraft: Legends
+> [Minecraft: Legends](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/e0b2eb43-174a-42cd-b3d1-857020c33024/chat)
 > 
-> Minecraft: New Nintendo 3DS Edition
+> [Minecraft: New Nintendo 3DS Edition](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/07e48250-9091-4890-8a6d-284f3a9bfccc/chat)
 > 
-> Minecraft: Playstation 3 Edition
+> [Minecraft: Playstation 3 Edition](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/8604dc32-c87f-48a5-95ef-5092d203dfac/chat)
 > 
-> Minecraft: Playstation 4 Edition
+> [Minecraft: Playstation 4 Edition](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/c631dd7c-3b77-4b38-9ce1-6d6344034e2d/chat)
 > 
-> Minecraft: Playstation Vita Edition
+> [Minecraft: Playstation Vita Edition](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/57490942-f8b8-4d51-b8d5-2ebde3492094/chat)
 > 
-> Minecraft: Pocket Edition
+> [Minecraft: Pocket Edition](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/b00d1eea-87e1-46b3-9e74-527d60698756/chat)
 > 
-> Minecraft: Story Mode
+> [Minecraft: Story Mode](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/0387a074-92dc-4dd0-8edf-6613be941f2a/chat)
 > 
-> Minecraft: Wii U Edition
+> [Minecraft: Wii U Edition](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/2407b475-0f34-4678-afb5-ebb1369351c0/chat)
 >
-> Minecraft: Xbox 360 Edition
+> [Minecraft: Xbox 360 Edition](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/fd34ef9c-b077-4c54-8c47-79c707b6ca04/chat)
 > 
-> Minecraft: Xbox One Edition
+> [Minecraft: Xbox One Edition](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/0d6bf0b5-2e0c-45b8-9f69-8e683866161d/chat)
 
 ## O
-> osu!
+> [osu!](https://www.guilded.gg/GS-DE/groups/DMgOvpAz/channels/eda851c8-7d69-4de5-9911-a850015d8bc0/chat)
 >
-> osu!lazer
+> [osu!lazer](https://www.guilded.gg/GS-DE/groups/DMgOvpAz/channels/eda851c8-7d69-4de5-9911-a850015d8bc0/chat)
 
 ## P
-> PixARK
+> [PixARK](https://www.guilded.gg/GS-DE/groups/dXKnab1D/channels/eab38262-c081-42e0-88f3-d9a6bfac8d6e/chat)
 
 ## R
-> Rocket League
+> [Rocket League](https://www.guilded.gg/GS-DE/groups/39nR1EvD/channels/da1c8f07-5954-4f4b-aaa0-4ae606b7cd48/chat)
 >
-> Rocket League Sideswipe
+> [Rocket League Sideswipe](https://www.guilded.gg/GS-DE/groups/39nR1EvD/channels/99ec5e37-cf15-4e1d-9087-52154cd5d80f/chat)
 
 ## S
-> Super Mario Kart
+> [Super Mario Kart](https://www.guilded.gg/GS-DE/groups/DbbwZ9xD/channels/315e1b7e-0a44-4930-843a-06d6de6cf7b1/chat)
 
 ## T
-> Terraria
+> [Terraria](https://www.guilded.gg/GS-DE/groups/3NYo8ALz/channels/6b1d16e0-900b-447d-9d43-e57b14e84117/chat)
 
 # Unfertig
 60-seconds - new
