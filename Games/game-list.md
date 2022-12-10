@@ -297,16 +297,16 @@
 ## T
 > [Terraria](https://www.guilded.gg/GS-DE/groups/3NYo8ALz/channels/6b1d16e0-900b-447d-9d43-e57b14e84117/chat)
 
+## W
+
 # Unfertig
 60-seconds - new
 agar-io
 age-of-empires - new
 alchemia-story - new
-among-us
 angry-birds - new
 animal-crossing - new
 anno - new
-apex - new
 archero
 arknights
 asphalt - new
@@ -322,11 +322,8 @@ bottle-flip-3d
 bounce-and-collect
 brawl-stars - new
 bus-simulator-ultimate
-call-of-duty
 candy-crush - new
 cashier-3d
-clash-of-clans
-clash-royale
 cody-cross
 cooking-fever - new
 counter-strike - new
@@ -336,7 +333,6 @@ cut-the-rope
 cyberpunk - new
 dead-by-daylight - new
 destiny - new
-diablo
 donkey-kong - new
 dont-starve - new
 doom - new
@@ -347,20 +343,16 @@ egg-inc
 evil-nun - new
 fall-guys - new
 far-cry - new
-farming-simulator
 fifa - new
 final-fantasy - new
 five-nights-at-freddys
 flappy-bird - new
 fleet-battle
 flip-dunk
-fortnite
-forza-horizon
 friday-night-funkin - new
 fruit-ninja - new
 game-dev-tycoon - new
 gang-beasts - new
-genshin-impact
 geometry-dash
 ghost-recon - new
 goat-simulator
@@ -391,7 +383,6 @@ like-a-dino - new
 limbo - new
 little-nightmares - new
 magic-survival
-mario-kart
 marvel - new
 mega-tower
 metroid - new
@@ -408,7 +399,6 @@ nintendo-switch-sports - new
 nonogram-com
 nonstop-knight
 old-mans-journey - new
-osu - new
 outlast - new
 overcooked - new
 overwatch - new
@@ -418,7 +408,6 @@ parking-jam-3d
 phasmopobia - new
 piano-tiles
 pikmin - new
-plants-vs-zombies
 playerunknowns-battlegrounds - new
 pocket-city - new
 pocket-game-developer
