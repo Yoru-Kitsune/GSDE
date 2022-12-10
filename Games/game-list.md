@@ -267,6 +267,24 @@
 
 ## P
 > [PixARK](https://www.guilded.gg/GS-DE/groups/dXKnab1D/channels/eab38262-c081-42e0-88f3-d9a6bfac8d6e/chat)
+> 
+> [Plants vs. Zombies](https://www.guilded.gg/GS-DE/groups/DkxWv9ed/channels/ea86851a-6701-474e-ba58-c3a63bd8f130/chat)
+> 
+> [Plants vs. Zombies 2](https://www.guilded.gg/GS-DE/groups/DkxWv9ed/channels/362a8e4a-98be-4f4c-9f76-e38bd248caa1/chat)
+> 
+> [Plants vs. Zombies: All Stars](https://www.guilded.gg/GS-DE/groups/DkxWv9ed/channels/ab85d5df-1d4d-492f-9928-ed4737ac71bd/chat)
+> 
+> [Plants vs. Zombies: Battle for Neighborville](https://www.guilded.gg/GS-DE/groups/DkxWv9ed/channels/eae2c828-84db-4074-bf7e-afd9a70205c2/chat)
+> 
+> [Plants vs. Zombies: Garden Warfare](https://www.guilded.gg/GS-DE/groups/DkxWv9ed/channels/b13b4bcd-d6d4-4d1b-afcb-8410b0b1ff8d/chat)
+> 
+> [Plants vs. Zombies: Garden Warfare 2](https://www.guilded.gg/GS-DE/groups/DkxWv9ed/channels/6c10138a-41a1-48d5-bb43-ea20f5a0fa0a/chat)
+> 
+> [Plants vs. Zombies Adventures](https://www.guilded.gg/GS-DE/groups/DkxWv9ed/channels/ec3244a3-6962-4a10-a74e-5ce4438f89fe/chat)
+> 
+> [Plants vs. Zombies Heroes](https://www.guilded.gg/GS-DE/groups/DkxWv9ed/channels/5f3473c2-3305-49b7-be59-03ffd8f0f82a/chat)
+> 
+> [Plants vs. Zombies™ 3](https://www.guilded.gg/GS-DE/groups/DkxWv9ed/channels/e80cab2f-5bbf-45ad-ac56-3250bec254a0/chat)
 
 ## R
 > [Rocket League](https://www.guilded.gg/GS-DE/groups/39nR1EvD/channels/da1c8f07-5954-4f4b-aaa0-4ae606b7cd48/chat)
