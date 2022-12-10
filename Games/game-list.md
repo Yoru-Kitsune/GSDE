@@ -301,6 +301,10 @@
 > [World of Tanks](https://www.guilded.gg/GS-DE/groups/dxXWxBed/channels/6079eb02-7182-4fa9-b0cd-b01c9e6d98dd/chat)
 > 
 > [World of Tanks Blitz](https://www.guilded.gg/GS-DE/groups/dxXWxBed/channels/7eacae98-9425-4bee-8796-f1b7ee073036/chat)
+> 
+> [World of Warships](https://www.guilded.gg/GS-DE/groups/dKyKq7O3/channels/173ec298-4bf2-4b3f-9d41-a5821ed7de46/chat)
+> 
+> [World of Warships Blitz: MMO](https://www.guilded.gg/GS-DE/groups/dKyKq7O3/channels/a54e464d-622b-4776-9151-f4c51e806de1/chat)
 
 # Unfertig
 60-seconds - new
