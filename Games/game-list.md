@@ -130,75 +130,75 @@ Hey you over there... you're going to steal the code, aren't you...
 > [Diablo IV](https://www.guilded.gg/GS-DE/groups/3yqMJB83/channels/1829049a-00ee-4cc5-a889-423b4334d58b/chat)
 
 ## F
-> Fortnite
+> [Fortnite](https://www.guilded.gg/GS-DE/groups/zP1pvaK3/channels/dc48e341-c3ce-49d6-b734-c8f1b12b3a7b/chat)
 > 
-> Forza Horizon
+> [Forza Horizon](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/729df7c8-8963-40b8-a6d2-4657830e8bee/chat)
 > 
-> Forza Horizon 2
+> [Forza Horizon 2](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/edf970f5-a22a-4b4b-8de3-00042697a0a7/chat)
 > 
-> Forza Horizon 2: Fast & Furious
+> [Forza Horizon 2: Fast & Furious](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/94319825-b326-4795-8cd4-5c44aaff6989/chat)
 > 
-> Forza Horizon 3
+> [Forza Horizon 3](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/835b34e7-5e18-4950-b12d-ba6f667fa492/chat)
 > 
-> Forza Horizon 4
+> [Forza Horizon 4](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/2f3f5d57-2b58-49f4-9bbc-31007a74d58e/chat)
 > 
-> Forza Horizon 4: Lego Speed Champions
+> [Forza Horizon 4: Lego Speed Champions](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/43fac92a-3b29-4f7c-b9c0-a264253b46ab/chat)
 > 
-> Forza Horizon 5
+> [Forza Horizon 5](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/63b95b4c-cc40-4248-9e00-69681143ce16/chat)
 > 
-> Forza Motorsport
+> [Forza Motorsport](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/1f4a72e5-248b-4a66-8f39-4e9437fb2c3a/chat)
 > 
-> Forza Motorsport 2
+> [Forza Motorsport 2](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/a04a9be2-7621-4cf4-b82c-58bc14f319a4/chat)
 > 
-> Forza Motorsport 3
+> [Forza Motorsport 3](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/50a9f061-0825-47cd-a96a-f2dfeebbdc17/chat)
 > 
-> Forza Motorsport 4
+> [Forza Motorsport 4](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/a19afe69-79d0-478d-ba76-c623f09b22ab/chat)
 > 
-> Forza Motorsport 5
+> [Forza Motorsport 5](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/3b14e53a-47bb-4d76-a650-403a2a45edbd/chat)
 > 
-> Forza Motorsport 6
+> [Forza Motorsport 6](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/ccb7f1db-f3cc-4326-8571-6af2cc2606a0/chat)
 > 
-> Forza Motorsport 6: Apex
+> [Forza Motorsport 6: Apex](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/47717b12-00a7-4a54-a2bf-939e984d01af/chat)
 > 
-> Forza Motorsport 7
+> [Forza Motorsport 7](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/73b53e19-b59e-40f9-9c11-999e4159525b/chat)
 > 
-> Forza Motorsport 8
+> [Forza Motorsport 8](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/c37f9d53-e9b8-41ab-8edb-1ea10cd985e8/chat)
 > 
-> Forza Street
+> [Forza Street](https://www.guilded.gg/GS-DE/groups/dXKnlW0D/channels/28391048-ab76-431b-ba5f-478a235c2bfb/chat)
 
 ## G
-> Genshin Impact
+> [Genshin Impact](https://www.guilded.gg/GS-DE/groups/D57gnp5z/channels/88f9169b-a038-41fb-89e3-c1acc07b61cb/chat)
 
 ## L
-> Landwirtschafts Simulator 14
+> [Landwirtschafts Simulator 14](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/251675cd-9504-4a5f-98a8-e2c436f20e5f/chat)
 > 
-> Landwirtschafts Simulator 15
+> [Landwirtschafts Simulator 15](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/bd16cdec-360d-415c-96a3-2bdf47a0ccc1/chat)
 > 
-> Landwirtschafts Simulator 16
+> [Landwirtschafts Simulator 16](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/7d384463-3c09-4118-a1d0-c9c7e851d833/chat)
 > 
-> Landwirtschafts Simulator 17
+> [Landwirtschafts Simulator 17](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/50b8ccb3-282a-404f-9340-9718d27d8335/chat)
 > 
-> Landwirtschafts Simulator 18
+> [Landwirtschafts Simulator 18](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/aa14eadf-6755-4bd5-b9c3-eeeba9bf73a0/chat)
 > 
-> Landwirtschafts Simulator 19
+> [Landwirtschafts Simulator 19](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/7670eab0-ece3-4837-b4d3-a5a28f46d8fe/chat)
 > 
-> Landwirtschafts Simulator 20
+> [Landwirtschafts Simulator 20](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/d50ba64a-f038-4371-bdaf-2fe16fb658fb/chat)
 > 
-> Landwirtschafts Simulator 22
+> [Landwirtschafts Simulator 22](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/dca49766-87da-4f8d-af12-409e1d325722/chat)
 > 
-> Landwirtschafts Simulator 2008
+> [Landwirtschafts Simulator 2008](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/e68fe6e6-c463-4ac7-ac97-7ec76187cc80/chat)
 > 
-> Landwirtschafts Simulator 2009
+> [Landwirtschafts Simulator 2009](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/2ec6a9aa-6877-4627-9812-09b4eb37d164/chat)
 > 
-> Landwirtschafts Simulator 2011
+> [Landwirtschafts Simulator 2011](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/ccf059f0-9ec8-4ad4-b95f-a3551b507ab4/chat)
 > 
-> Landwirtschafts Simulator 2012
+> [Landwirtschafts Simulator 2012](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/99262723-61a4-41a6-88fd-bcc444386fdd/chat)
 > 
-> Landwirtschafts Simulator 2013
+> [Landwirtschafts Simulator 2013](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/2e497554-7e83-4406-8962-d33880ebcb5e/chat)
 > 
-> Landwirtschafts Simulator C64 Edition
+> [Landwirtschafts Simulator C64 Edition](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/64721897-939e-497d-a539-afb28bbbf7a3/chat)
 > 
-> Landwirtschafts Simulator Nintendo Switch Edition
+> [Landwirtschafts Simulator Nintendo Switch Edition](https://www.guilded.gg/GS-DE/groups/3jGWo9BD/channels/d519a09b-4fd1-4663-abf1-a85f7e86830e/chat)
 
 ## M
 > Mario Kart 7
