@@ -62,7 +62,7 @@
 > 
 > [Call of Duty: Ghosts](https://www.guilded.gg/GS-DE/groups/dekWa8n3/channels/084207dc-c088-471f-a8c6-64d71e5d5f57/chat)
 > 
-> [Call of Duty: Heros](https://www.guilded.gg/GS-DE/groups/dekWa8n3/channels/f37118ce-4118-4c00-9ad1-3db719d1b8d5/chat)
+> [Call of Duty: Heroes](https://www.guilded.gg/GS-DE/groups/dekWa8n3/channels/f37118ce-4118-4c00-9ad1-3db719d1b8d5/chat)
 > 
 > [Call of Duty: Infinite War](https://www.guilded.gg/GS-DE/groups/dekWa8n3/channels/f6755970-a62f-471a-a2e8-73b80160ba8a/chat)
 > 
