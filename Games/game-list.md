@@ -229,7 +229,7 @@ Hey you over there... you're going to steal the code, aren't you...
 > 
 > Mario Kart Wii
 > 
-> [Minecraft](https://www.guilded.gg/GS-DE/groups/dQG4PKK3/channels/58b5130b-8415-4afb-a658-0586cf3d7b6b/chat)
+> Minecraft
 > 
 > Minecraft: Dungeons
 > 
