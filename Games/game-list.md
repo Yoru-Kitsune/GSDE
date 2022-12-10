@@ -387,7 +387,6 @@ monument-valley - new
 movie-star-planet - new
 need-for-speed - new
 nintendo-switch-sports - new
-no-mans-sky
 nonogram-com
 nonstop-knight
 old-mans-journey - new
